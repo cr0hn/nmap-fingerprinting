@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 04 Apr 2018 10:33:03 GMT
+Etag: W/"5ac13fdb-6fee"
+Last-Modified: Sun, 01 Apr 2018 20:23:55 GMT
+Server: Microsoft-IIS/8.5
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Via: kong/0.13.0
+X-Kong-Proxy-Latency: 10
+X-Kong-Upstream-Latency: 1
+X-Powered-By: ASP.NET 4.8
+Transfer-Encoding: chunked
+
+
